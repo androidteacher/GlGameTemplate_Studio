@@ -163,7 +163,7 @@ public class MainDraw implements Renderer {
 			gl.glPopMatrix();
 			 testvar += speed/120;
 
-				}
+				} 
 	
 	
 	
