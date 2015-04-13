@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GLGameTemplate </string>
+    <string name="author">Josh Beck</string>
+    <string name="website"></string>
+    <string name="self_destruct">button1</string>
+     <string name="button2">button2</string>
+     <string name="startbutton">Start</string>
+</resources>

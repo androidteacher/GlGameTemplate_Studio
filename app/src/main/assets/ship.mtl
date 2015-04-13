@@ -1,0 +1,134 @@
+# Blender MTL File: 'ship.blend'
+# Material Count: 12
+newmtl Color_000
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/josh/workspace/GLGameTemplate/res/drawable/ship.png
+
+
+newmtl Color_001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.709020 0.709020 0.709020
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/josh/workspace/GLGameTemplate/res/drawable/ship.png
+
+
+newmtl Color_004
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.445490 0.445490 0.445490
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/josh/workspace/GLGameTemplate/res/drawable/ship.png
+
+
+newmtl Color_008
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.094118 0.094118 0.094118
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/josh/workspace/GLGameTemplate/res/drawable/ship.png
+
+
+newmtl Color_A11
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.480000 0.000000 0.000000
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/josh/workspace/GLGameTemplate/res/drawable/ship.png
+
+
+newmtl Color_I11
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.480000
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/josh/workspace/GLGameTemplate/res/drawable/ship.png
+
+
+newmtl FrontColor
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/josh/workspace/GLGameTemplate/res/drawable/ship.png
+
+
+newmtl Material1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.523922 0.050196 0.037647
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 0.600000
+illum 2
+map_Kd /home/josh/workspace/GLGameTemplate/res/drawable/ship.png
+
+
+newmtl Translucent_Glass_Blue
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.313726 0.467451 0.743530
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 0.500000
+illum 2
+map_Kd /home/josh/workspace/GLGameTemplate/res/drawable/ship.png
+
+
+newmtl _Black_
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/josh/workspace/GLGameTemplate/res/drawable/ship.png
+
+
+newmtl _Charcoal_
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.109804 0.109804 0.109804
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/josh/workspace/GLGameTemplate/res/drawable/ship.png
+
+
+newmtl _Gray6_
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.301177 0.301177 0.301177
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/josh/workspace/GLGameTemplate/res/drawable/ship.png
+
+

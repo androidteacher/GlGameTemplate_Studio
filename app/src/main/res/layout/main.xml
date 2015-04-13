@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    
+
+<android.opengl.GLSurfaceView 
+            android:id="@+id/cubes" 
+            android:orientation="horizontal" 
+            android:layout_width="fill_parent" 
+            android:layout_height="fill_parent"/>
+
+<ImageButton
+     android:id="@+id/button1"     
+     android:layout_height="wrap_content"
+     android:layout_width="100dip"
+     android:layout_gravity="bottom"
+       android:src="@drawable/larrow"
+       android:background="@drawable/butbaca"
+        android:layout_marginBottom="30px"
+     
+     android:text="@string/self_destruct"
+    />
+<TextView 
+    android:text="@+id/score" 
+    android:id="@+id/score" 
+    android:layout_width="200dip" 
+    android:layout_height="120dip"  
+    android:layout_gravity="top|center"
+    android:gravity="top|center"></TextView>
+<TextView 
+    android:text="@+id/TextView01" 
+    android:id="@+id/TextView01" 
+    android:layout_width="140dip" 
+    android:layout_height="60dip"  
+    android:layout_gravity="bottom|center"
+    android:gravity="bottom|center"></TextView>
+<TextView 
+    android:text="@+id/TextView02" 
+    android:id="@+id/TextView02" 
+    android:layout_width="100dip" 
+    android:layout_height="60dip"  
+    android:layout_marginBottom="30px"
+    android:layout_gravity="bottom|center"
+    android:gravity="bottom|center"></TextView>
+
+<ImageButton
+     android:id="@+id/button2"     
+     android:layout_height="wrap_content"
+     android:layout_width="100dip"
+     android:layout_gravity="bottom|right"
+     android:text="@string/button2"
+       android:src="@drawable/rarrow"
+       android:background="@drawable/butbaca"
+        android:layout_marginBottom="30px"
+    />
+
+
+
+</FrameLayout>
