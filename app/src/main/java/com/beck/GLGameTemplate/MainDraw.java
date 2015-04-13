@@ -169,7 +169,7 @@ public class MainDraw implements Renderer {
 	
 
 	public Runnable mUpdate = new Runnable() {
-		   public void run() { 
+		   public void run() {
 			 //check GetterSetters for sounds.
 			 //reset mediaplayer, create, start code
 		 
